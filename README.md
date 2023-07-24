@@ -19,4 +19,7 @@ cpu使用率越高，小猫咪🏃跑的越慢～😂😂😂
 
 貌似有点大。。。😂
 
-链接: https://pan.baidu.com/s/1NSSAzeFQ6P4e2SvU6lxiAw?pwd=88jt 提取码: 88jt 
+显示小猫咪和cpu占用率的版本：链接:https://pan.baidu.com/s/1CTVyvY5TwGCqt_c1XqpTWw?pwd=bxjx 提取码:bxjx 复制这段内容后打开百度网盘手机App，操作更方便哦
+
+只显示小猫咪的版本:链接: https://pan.baidu.com/s/16Yt0OtLYaFZYTDC4imT7hg?pwd=hqxr 提取码: hqxr 
+--来自百度网盘超级会员v7的分享
