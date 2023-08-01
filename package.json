@@ -1,0 +1,22 @@
+{
+  "name": "Cat-Running",
+  "version": "1.0.0",
+  "description": "Cat Running",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "build": "electron-builder",
+    "build:mac": "electron-builder --mac",
+    "build:win": "electron-builder --win"
+  },
+  "author": "兔子哥",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.2.0",
+    "electron-builder": "^24.4.0"
+  },
+  "dependencies": {
+    "systeminformation": "^5.18.7"
+  }
+}
