@@ -1,0 +1,19 @@
+{
+  "appId": "Cat-Running",
+  "productName": "Cat Running",
+  "files": ["main.js","imgs/**/*","index.html"],
+  "win": {
+    "target": {
+      "target": "nsis",
+      "arch": [
+        "x64"
+      ]
+    },
+    "icon": "imgs/forward.png",
+    "artifactName": "${productName}-setup-${version}.${ext}"
+  },
+  "mac": {
+    "icon": "imgs/icon.png",
+    "artifactName": "${productName}-setup.${ext}"
+  }
+}
