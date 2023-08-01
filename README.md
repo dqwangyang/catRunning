@@ -18,6 +18,19 @@ cpu使用率越高，小猫咪🏃跑的越慢～😂😂😂
 
 貌似有点大。。。😂
 
+ 
+
+
+- 基于electron开发
+- npm run start 启动
+- npm run build:mac 打包mac安装包，打包文件在disk目录下
+- npm run build:win 打包win安装包，打包文件在disk目录下
+
+
+
+
+
+
 显示小猫咪和cpu占用率的版本：链接:https://pan.baidu.com/s/1CTVyvY5TwGCqt_c1XqpTWw?pwd=bxjx 提取码:bxjx 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 只显示小猫咪的版本:链接: https://pan.baidu.com/s/16Yt0OtLYaFZYTDC4imT7hg?pwd=hqxr 提取码: hqxr 
