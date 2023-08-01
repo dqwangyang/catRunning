@@ -35,3 +35,5 @@ cpu使用率越高，小猫咪🏃跑的越慢～😂😂😂
 
 只显示小猫咪的版本:链接: https://pan.baidu.com/s/16Yt0OtLYaFZYTDC4imT7hg?pwd=hqxr 提取码: hqxr 
 --来自百度网盘超级会员v7的分享
+
+ **安装后运行提示文件损坏的解决方案** ：https://zhuanlan.zhihu.com/p/644719940
